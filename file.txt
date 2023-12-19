@@ -1,5 +1,5 @@
 from computer
-continue commit from 2 computer
+continue commit from 2 comcputer
 from github
 edit 1
 edit 2
